@@ -61,4 +61,7 @@ function draw(){
 
     bird.display();
     ground2.display();
+
+    
+
 }
